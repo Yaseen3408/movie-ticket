@@ -1,5 +1,4 @@
 # movie-ticket
-Sure, I can provide a basic documentation outline for the movie ticket booking system code. You can expand on this outline and add more details as needed.
 
 # Movie Ticket Booking System Documentation
 
